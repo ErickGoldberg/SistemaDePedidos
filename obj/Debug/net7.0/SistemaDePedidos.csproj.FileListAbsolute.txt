@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\bin\Debug\net7.0\SistemaDePedidos.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\bin\Debug\net7.0\SistemaDePedidos.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\bin\Debug\net7.0\SistemaDePedidos.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\bin\Debug\net7.0\SistemaDePedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\bin\Debug\net7.0\SistemaDePedidos.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\refint\SistemaDePedidos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\SistemaDePedidos.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\SistemaDePedidos\SistemaDePedidos\obj\Debug\net7.0\ref\SistemaDePedidos.dll
